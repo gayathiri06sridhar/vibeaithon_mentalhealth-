@@ -1,52 +1,51 @@
- SERA: AI Mental Health Chatbot for Students
- Overview:-
+🌿 SERA: AI Mental Health Chatbot for Students
+🧠 Overview
 
-SERA is an AI-powered mental health chatbot designed to create a stigma-free space for university students. It detects emotional distress through user interactions, bridges students with campus counsellors, and gamifies wellness activities to make mental health care engaging and accessible.
+SERA is an AI-powered mental health chatbot designed to create a stigma-free space for university students. It detects emotional distress through user interactions, bridges students with campus counsellors, and gamifies progress to make mental wellness approachable and engaging.
 
-Features:-
+💡 Features
 
-AI Chatbot: Uses natural language processing to identify signs of stress, anxiety, and burnout.
+AI Chatbot: Uses NLP to identify signs of stress, anxiety, and burnout.
 
-Gamified DASS-21 & PHQ-9 Quiz: Scientifically validated mental health self-assessments are reimagined as interactive quizzes to help students reflect on their emotional states in a gentle, game-like way.
-
-Diet & Lifestyle Suggestions: Provides curated wellness advice when academic stress indicators appear.
+Diet & Lifestyle Suggestions: Offers gentle, optional wellness advice when academic stress is detected.
 
 Timetable Integration: Students can upload their academic calendar, and SERA auto-generates a personalized daily plan or self-care schedule.
 
-Counsellor Connection: Connects students directly to university counsellors when the system detects potential mental health risk.
+Counsellor Connection: Connects students to verified university counsellors when risk levels are high.
 
-Progress Tracker: Encourages consistent engagement through achievements, badges, and streak-based rewards.
+Gamified Interface: Encourages consistency through badges, levels, and small wins.
 
-Tech Stack:-
+⚙️ Tech Stack
 
-Frontend: HTML, CSS, react
+Frontend: HTML, CSS, (optional React or Tailwind)
 
 Backend: Flask + SQLite
 
-AI/ML Model: OpenAI pre-trained model fine-tuned for emotion and sentiment recognition
+AI/ML Model: OpenAI pre-trained model (fine-tuned for mental health support)
 
-APIs Used: Flask REST API for chatbot and quiz interactions
+APIs Used: Flask REST API for chatbot communication
 
-Database: SQLite (stores user sessions, quiz scores, and emotional patterns)
+Database: SQLite (stores user sessions, emotion scores, and feedback)
 
-Architecture
+🧩 Architecture
 User → Chat Interface → Flask Backend → AI Model → University Database
                                    ↓
-                     Gamified Quiz + Wellness & Timetable Planner
+                           Timetable & Wellness Planner
 
-Team & Roles:-
+🧑‍💻 Team & Roles
 
-AI :Gayathiri S
-Backend Development:Kirishipathi b
-Frontend :Karthiga M
-Design: Harsha U
-Database & Integration: Mariyam Arshiya Saddiq Basha
+AI & Backend Development: [Your Name]
 
+Frontend & Design: [Teammate Name]
 
+Database & Integration: [Teammate Name]
 
-Our team combines expertise in AI, psychology, and UX design to create a tool that is technically strong, psychologically valid, and emotionally empathetic.
+Research & Psychology Input: [Teammate Name]
 
- Impact:-
+Our diverse technical and research backgrounds make us capable of building an ethical, student-centered system that balances innovation and empathy.
 
-SERA promotes early mental health detection through gamified quizzes (DASS-21, PHQ-9) and supportive AI conversations. It encourages students to seek real therapy while reducing stigma, building a community where mental well-being is normalized and prioritized.
+📊 Impact
+
+SERA promotes early identification of mental health concerns and encourages therapy-seeking behavior in a non-judgmental way. By integrating student routines and wellbeing tools, it creates a holistic ecosystem for mental wellness..
+
 
