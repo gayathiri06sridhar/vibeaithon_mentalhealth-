@@ -1,9 +1,9 @@
  SERA: AI Mental Health Chatbot for Students
- Overview
+ Overview:-
 
 SERA is an AI-powered mental health chatbot designed to create a stigma-free space for university students. It detects emotional distress through user interactions, bridges students with campus counsellors, and gamifies wellness activities to make mental health care engaging and accessible.
 
-Features
+Features:-
 
 AI Chatbot: Uses natural language processing to identify signs of stress, anxiety, and burnout.
 
@@ -17,7 +17,7 @@ Counsellor Connection: Connects students directly to university counsellors when
 
 Progress Tracker: Encourages consistent engagement through achievements, badges, and streak-based rewards.
 
-Tech Stack
+Tech Stack:-
 
 Frontend: HTML, CSS, react
 
@@ -34,7 +34,7 @@ User → Chat Interface → Flask Backend → AI Model → University Database
                                    ↓
                      Gamified Quiz + Wellness & Timetable Planner
 
-🧑‍💻 Team & Roles
+Team & Roles:-
 
 AI :Gayathiri S
 Backend Development:Kirishipathi b
@@ -46,7 +46,7 @@ Database & Integration: Mariyam Arshiya Saddiq Basha
 
 Our team combines expertise in AI, psychology, and UX design to create a tool that is technically strong, psychologically valid, and emotionally empathetic.
 
-📊 Impact
+ Impact:-
 
 SERA promotes early mental health detection through gamified quizzes (DASS-21, PHQ-9) and supportive AI conversations. It encourages students to seek real therapy while reducing stigma, building a community where mental well-being is normalized and prioritized.
 
