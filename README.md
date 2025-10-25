@@ -32,15 +32,7 @@ User → Chat Interface → Flask Backend → AI Model → University Database
                                    ↓
                            Timetable & Wellness Planner
 
-🧑‍💻 Team & Roles
 
-AI & Backend Development: [Your Name]
-
-Frontend & Design: [Teammate Name]
-
-Database & Integration: [Teammate Name]
-
-Research & Psychology Input: [Teammate Name]
 
 Our diverse technical and research backgrounds make us capable of building an ethical, student-centered system that balances innovation and empathy.
 
